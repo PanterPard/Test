@@ -1,5 +1,9 @@
 # test
 
-print("Hello, World!")
+print("Hello, World!\n")
 
-print("\nTest")
+print("Test\n")
+
+print("...")
+
+print("Ready.\n")
